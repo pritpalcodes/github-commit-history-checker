@@ -44,4 +44,5 @@ python script_name.py
 3. Visualize commit activity:
 The script will generate a heatmap of commit activity for the past year, which will be displayed using `matplotlib`.
 
+![image](https://github.com/user-attachments/assets/756738e1-6e4c-4210-b516-b5578b443a13)
 
